@@ -6,3 +6,5 @@ In this we had set the time limit and as you give the correct answer your score 
 You can type your answer in lower or upper case.
 
 Try it out by yourself and edit as you wish to.Thanks for referring our code.
+
+Thanks for referring my project and watch out my profile to find more fun projects.
